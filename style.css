@@ -1,0 +1,150 @@
+body {
+    background-color: #303e47;
+}
+#header{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+}
+#headleft{
+    padding-right: 30px;
+}
+#headright{
+ color: white;
+}
+
+img{
+    height: 90px;
+
+}
+
+#con1 {
+display: flex;
+justify-content: space-around;
+color: #fcfffc;
+}
+.icon{
+    font-size: 42px;
+    color: black;
+}
+.icon1{
+    font-size: 42px;
+    color: #ff5959;
+}
+.icon2{
+    color: black;
+    font-size: 100px;
+    margin-top: 15px;
+}
+.icon3{
+    color: #ff5959;
+    font-size: 100px;
+    margin-top: 15px;
+}
+
+#con1l{
+    padding: 20px 10px 10px 0px;
+    background-color: #ff9e1b;
+    flex: 50%;
+    text-align: center;
+    margin-left: 15%;
+}
+#con1r{
+    background-color: #00b2e2;
+    flex: 50%;
+    text-align: center;
+    margin-right: 15%;
+}
+#con2{
+    background-color: #ff5959;
+    margin-top: 35px;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+#con2g{
+    display: flex;
+    padding-left: 5%;
+}
+#con21{
+   
+    flex: 60%;
+}
+#con22{
+    flex: 50%;
+}
+#con23{
+    padding-left: 3%;
+}
+#con3{
+    background-color: #00b2e2;
+    margin-top: 35px;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+#con3head{
+    margin-left: 40px;
+}
+#con31,#con32{
+    display: flex;
+    justify-content: space-around;
+}
+#con4{
+    display: flex;
+justify-content: space-around;
+color: #fcfffc;
+margin-top: 35px;
+}
+#con4l{
+    padding: 20px 10px 10px 0px;
+    background-color: #ff5959;
+    flex: 50%;
+    text-align: center;
+    margin-left: 15%;
+}
+#con4r{
+    background-color: #ff9e1b;
+    flex: 50%;
+    text-align: center;
+    margin-right: 15%;
+}
+#con5{
+    display: flex;
+    justify-content: space-around;
+    color: #fcfffc;
+    margin-top: 35px;
+    background-color: #00b2e2;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#con6{
+    display: flex;
+    justify-content: space-around;
+    color: #fcfffc;
+    margin-top: 35px;
+    background-color: #ff9e1b;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#con7{
+    display: flex;
+    justify-content: space-around;
+    color: #fcfffc;
+    margin-top: 35px;
+}
+#con7l{
+    padding: 20px 10px 10px 0px;
+    background-color: #00b2e2;
+    flex: 50%;
+    text-align: center;
+    margin-left: 15%;
+}
+#con7r{
+    background-color: #ff5959;
+    flex: 50%;
+    text-align: center;
+    margin-right: 15%;
+}
